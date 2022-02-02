@@ -1,12 +1,12 @@
 {
-    "main": "보드게임.js",
+    "main": "KakaoMarble.js",
     "option": {
         "apiLevel": 1,
         "useUnifiedParams": false,
         "useBabel": false,
         "debugRoom": {
             "name": "DEBUG ROOM",
-            "sender": "시",
+            "sender": "IMIS",
             "isGroupChat": false,
             "packageName": "com.xfl.msgbot"
         },
