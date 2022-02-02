@@ -1,0 +1,16 @@
+{
+    "main": "보드게임.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "debugRoom": {
+            "name": "DEBUG ROOM",
+            "sender": "시",
+            "isGroupChat": false,
+            "packageName": "com.xfl.msgbot"
+        },
+        "scriptPower": true,
+        "offOnRuntimeError": false
+    }
+}
